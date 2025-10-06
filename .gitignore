@@ -1,0 +1,8 @@
+target/
+!.keep
+!target/webhook-sql-0.0.1-SNAPSHOT.jar
+!target/final-query.sql
+.idea/
+.vscode/
+*.iml
+.DS_Store
